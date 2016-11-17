@@ -5,6 +5,6 @@ package sorting;
  */
 public class MergeSort {
     int[] mergeSort(int[] array) {
-
+        return new int[0];
     }
 }
