@@ -2,7 +2,13 @@ package sorting;
 
 /**
  * Created by ll0816 on 11/16/16.
+ *
+ * input: {4, 2, -3, 6, 1}
+ * output: {-3, 1, 2, 4, 6}
+ * time: O(n^2)
+ * space: O(1)
  */
+
 public class SelectionSort {
 
     int[] sort(int[] array) {
